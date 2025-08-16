@@ -9,7 +9,7 @@ Gatling HomeWork from Olyakov Sergey
 \WTGatling_Olyakov\target\gatling\wtsimulation-20250816074923380
 
 **Html с отчетом НТ №2** 
-***(Тест надужности на 80% от макс.перф.):***
+***(Тест надёжности на 80% от макс.перф.):***
 \WTGatling_Olyakov\target\gatling\wtsimulation-20250816203828716
 
 **Скриншоты:**
