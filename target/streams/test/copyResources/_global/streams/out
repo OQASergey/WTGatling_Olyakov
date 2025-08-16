@@ -1,0 +1,4 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\Git_Rep\WTGatling_Olyakov\src\test\resources\gatling.conf,D:\Git_Rep\WTGatling_Olyakov\target\scala-2.13\test-classes\gatling.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\Git_Rep\WTGatling_Olyakov\src\test\resources\logback-test.xml,D:\Git_Rep\WTGatling_Olyakov\target\scala-2.13\test-classes\logback-test.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(D:\Git_Rep\WTGatling_Olyakov\src\test\resources\users.csv,D:\Git_Rep\WTGatling_Olyakov\target\scala-2.13\test-classes\users.csv)[0m
