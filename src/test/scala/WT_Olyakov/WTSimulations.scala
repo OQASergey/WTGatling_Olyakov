@@ -12,7 +12,8 @@ object WTSimulation {
   
 }
 
-class WTSimulation extends Simulation {
+//НТ 0-100% до макс.перф.
+/*class WTSimulation extends Simulation {
   setUp(
     WTScenario()
       .inject(
@@ -20,6 +21,17 @@ class WTSimulation extends Simulation {
           .times(11)
           .eachLevelLasting(2 minutes)
           .startingFrom(0)
+      )
+  ).protocols(WTSimulation.httpProtocol)
+}*/
+
+//НТ 80% от макс.перф.
+class WTSimulation extends Simulation {
+  setUp(
+    WTScenario()
+      .inject(
+        constantUsersPerSec(8)
+          .during(65 minutes)
       )
   ).protocols(WTSimulation.httpProtocol)
 }

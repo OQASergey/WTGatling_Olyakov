@@ -10,7 +10,7 @@
 
 **Html с отчетом НТ №2** 
 ***(Тест надужности на 80% от макс.перф.):***
-скоро
+\WTGatling_Olyakov\target\gatling\wtsimulation-20250816203828716
 
 **Скриншоты:**
 НТ №1:
@@ -18,4 +18,5 @@
 ![Screen2](https://github.com/OQASergey/WTGatling_Olyakov/raw/main/MyScreenShots/Screenshot_2.png)
 
 НТ №2:
-скоро
+![Screen3](https://github.com/OQASergey/WTGatling_Olyakov/raw/main/MyScreenShots/Screenshot_3.png)
+![Screen4](https://github.com/OQASergey/WTGatling_Olyakov/raw/main/MyScreenShots/Screenshot_4.png)
