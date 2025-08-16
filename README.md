@@ -1,4 +1,4 @@
-##Gatling HomeWork from Olyakov Sergey##
+Gatling HomeWork from Olyakov Sergey
 ===========================================
 
 **Файлы с ДЗ:**
